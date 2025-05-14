@@ -5,7 +5,7 @@ ease: "none"
 });
 
 tl.from("#image img", {
-  scale: .01,
+  scale: .001,
   duration: 1,
   transformOrigin: "center center",
 }).to({}, {
