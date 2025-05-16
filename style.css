@@ -9,12 +9,13 @@
     z-index: 1;
     background-image: url('./img/TestImage_CaseStudy.jpeg');
     background-size: cover;
+    overflow: hidden;
   }
   
   img {
     width: 100vw;
     height: 100vh;
-    scale: 100%;
+    scale: 2000%;
   }
   
   #text {
